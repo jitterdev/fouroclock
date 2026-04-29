@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "enchancement:beheading",
+      "required": false
+    },
+    {
+      "id": "yo_hooks:gentle_touch",
+      "required": false
+    }
+  ]
+}

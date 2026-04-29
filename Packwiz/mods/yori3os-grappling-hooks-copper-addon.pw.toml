@@ -1,0 +1,13 @@
+name = "Yori3o's Grappling Hooks & Copper Age Backport"
+filename = "yo_hooks_copper_age_addon-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n84V1ibt/versions/gMTWtKWT/yo_hooks_copper_age_addon-1.0.0.jar"
+hash-format = "sha512"
+hash = "f2c08c59f7e58b4a8b26991a250a21e336ef1a6d3f71ab677fa7a870501d0f5309e2f5fcbea61552d7015d2b528f51d796773bb961261b764e50ef9d930bdff6"
+
+[update]
+[update.modrinth]
+mod-id = "n84V1ibt"
+version = "gMTWtKWT"

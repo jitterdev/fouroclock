@@ -1,0 +1,101 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "malum:ascension",
+      "required": false
+    },
+    {
+      "id": "malum:replenishing",
+      "required": false
+    },
+    {
+      "id": "supplementaries:stasis",
+      "required": false
+    },
+    {
+      "id": "enchancement:adrenaline",
+      "required": false
+    },
+    {
+      "id": "enchancement:amphibious",
+      "required": false
+    },
+    {
+      "id": "enchancement:berserk",
+      "required": false
+    },
+    {
+      "id": "enchancement:brimstone",
+      "required": false
+    },
+    {
+      "id": "enchancement:delay",
+      "required": false
+    },
+    {
+      "id": "enchancement:dash",
+      "required": false
+    },
+    {
+      "id": "enchancement:grapple",
+      "required": false
+    },
+    {
+      "id": "enchancement:leech",
+      "required": false
+    },
+    {
+      "id": "enchancement:meteor",
+      "required": false
+    },
+    {
+      "id": "enchancement:phasing",
+      "required": false
+    },
+    {
+      "id": "enchancement:scatter",
+      "required": false
+    },
+    {
+      "id": "enchancement:sticky",
+      "required": false
+    },
+    {
+      "id": "enchancement:thunderstruck",
+      "required": false
+    },
+    {
+      "id": "enchancement:torch",
+      "required": false
+    },
+    {
+      "id": "enchancement:warp",
+      "required": false
+    },
+    {
+      "id": "enderscape:resonance",
+      "required": false
+    },
+    {
+      "id": "enderscape:transdimensional",
+      "required": false
+    },
+    {
+      "id": "malum:capacitor",
+      "required": false
+    },
+    {
+      "id": "malum:weavers_haste",
+      "required": false
+    },
+    {
+      "id": "malum:weavers_propagation",
+      "required": false
+    },
+    {
+      "id": "yo_hooks:agility",
+      "required": false
+    }
+  ]
+}

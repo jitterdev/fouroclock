@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "enchancement:bury",
+      "required": false
+    },
+    {
+      "id": "enchancement:extracting",
+      "required": false
+    },
+    {
+      "id": "enchancement:gale",
+      "required": false
+    },
+    {
+      "id": "enchancement:lumberjack",
+      "required": false
+    },
+    {
+      "id": "enchancement:molten",
+      "required": false
+    },
+    {
+      "id": "enchancement:perception",
+      "required": false
+    },
+    {
+      "id": "enchancement:scooping",
+      "required": false
+    },
+    {
+      "id": "enchancement:veil",
+      "required": false
+    },
+    {
+      "id": "malum:rebound",
+      "required": false
+    },
+    {
+      "id": "yo_hooks:long_reach",
+      "required": false
+    }
+  ]
+}
