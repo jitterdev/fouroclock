@@ -8,6 +8,18 @@
     {
       "id": "yo_hooks:gentle_touch",
       "required": false
+    },
+    {
+      "id": "mirabilis:grip",
+      "required": false
+    },
+    {
+      "id": "mirabilis:spring",
+      "required": false
+    },
+    {
+      "id": "mirabilis:swift_strike",
+      "required": false
     }
   ]
 }

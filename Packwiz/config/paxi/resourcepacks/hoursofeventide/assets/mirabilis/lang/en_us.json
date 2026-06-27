@@ -1,0 +1,14 @@
+{
+    "enchantment.mirabilis.flow": "Flow",
+    "enchantment.mirabilis.flow.desc": "Increases movement speed in water while held.",
+    "enchantment.mirabilis.grip": "Grip",
+    "enchantment.mirabilis.grip.desc": "Increases knockback resistance.",
+    "enchantment.mirabilis.spring": "Spring",
+    "enchantment.mirabilis.spring.desc": "Increases jump height and safe fall distance.",
+    "enchantment.mirabilis.step": "Step",
+    "enchantment.mirabilis.step.desc": "Increases your step height, allowing you to walk up full blocks.",
+    "enchantment.mirabilis.swift_strike": "Swift Strike",
+    "enchantment.mirabilis.swift_strike.desc": "Increases attack speed.",
+    "enchantment.mirabilis.swiftfooted": "Swiftfooted",
+    "enchantment.mirabilis.swiftfooted.desc": "Increases movement speed."
+}

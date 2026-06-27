@@ -1,0 +1,13 @@
+name = "Obfuscated Text Improver"
+filename = "obfuscation_improver-1.0.2+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kDBQL0G4/versions/Z0VaEMRP/obfuscation_improver-1.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "38bfdb58c0201b22b77a2fdd4fda73127a261e9d592600cca8d59e23c26841301677c3a6781489bdbf3722412b2edfc9d067b87370637466381fb99d1c355401"
+
+[update]
+[update.modrinth]
+mod-id = "kDBQL0G4"
+version = "Z0VaEMRP"

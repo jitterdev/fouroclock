@@ -1,0 +1,13 @@
+name = "SuppressGL"
+filename = "suppressgl-1.0-SNAPSHOT.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N4K1vffZ/versions/bvMaxnBr/suppressgl-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "41256b2394db1fb3fce8f9ea11b83a7746544af04e35f49e8e0f297435c20d75f3a6861ca3aa82367285b1477f6e216df28a66799942bcda905b1a4dd9f014c0"
+
+[update]
+[update.modrinth]
+mod-id = "N4K1vffZ"
+version = "bvMaxnBr"

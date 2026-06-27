@@ -6,6 +6,10 @@
       "required": false
     },
     {
+      "id": "enchancement:dash",
+      "required": false
+    },
+    {
       "id": "enchancement:extracting",
       "required": false
     },
@@ -39,6 +43,18 @@
     },
     {
       "id": "yo_hooks:long_reach",
+      "required": false
+    },
+    {
+      "id": "mirabilis:step",
+      "required": false
+    },
+    {
+      "id": "mirabilis:flow",
+      "required": false
+    },
+    {
+      "id": "mirabilis:swiftfooted",
       "required": false
     }
   ]
