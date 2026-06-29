@@ -1,0 +1,13 @@
+name = "Optimized Block Entities"
+filename = "obe+1.21.1-neoforge-1.1.19-hotfix.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtOSAunf/versions/JAC620IB/obe%2B1.21.1-neoforge-1.1.19-hotfix.2.jar"
+hash-format = "sha512"
+hash = "1a9995e28e9e8b36406a1c390239c1d2195fd079a61afcd102be97d778878ca742d158a87ae504fe79cee6be8fb6d78b3c2f85143e1a333d128a3f51bcf50998"
+
+[update]
+[update.modrinth]
+mod-id = "AtOSAunf"
+version = "JAC620IB"

@@ -7,6 +7,7 @@
     "enchiridion:ashes_curse",
     "enchiridion:murky_waters_curse",
     "enchiridion:sticky",
+    "enchiridion:reach",
 
     "enchancement:assimilation",
     "enchancement:beheading",
@@ -22,16 +23,19 @@
 
     "allurement:alleviating",
     "allurement:ascension_curse",
-    "allurement:fleeting_curse"
+    "allurement:fleeting_curse",
+
+    "spectrum:indestructible",
+    "spectrum:autosmelt"
   ],
   "invertedList": false,
   "overhaulEnchantingTable": "DISABLED",
-  "singleLevelMode": true,
+  "singleLevelMode": false,
   "enchantmentLimit": 0,
   "disableDurability": false,
   "disableVelocityChecks": false,
   "enhanceMobs": true,
-  "freeEnchantedBookMerging": true,
+  "freeEnchantedBookMerging": false,
   "rebalanceConsumables": true,
   "rebalanceEnchantments": true,
   "rebalanceEquipment": true,

@@ -1,13 +1,13 @@
 name = "Enchiridion"
-filename = "enchiridion-neoforge-0.1.8+1.21.1.jar"
+filename = "enchiridion-neoforge-0.2.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LXagYH7y/versions/nyRyzm2i/enchiridion-neoforge-0.1.8%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/LXagYH7y/versions/9JhEyJEL/enchiridion-neoforge-0.2.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "ebac71fd376cd4e9eb71d3948ec546e964baa41b79131c1ac5590c5543f57c76d09998ce513186a7e522042ee9561b24425bcb64985fdea3bc95810df40736a6"
+hash = "9101e217ce9228b9d5eda818875970c37ec444b74bdb9c24607a2d905e6c509a1d806c51810b3a3a66444a9498af65919dccc3467a8774a24b07f59db1e6bf17"
 
 [update]
 [update.modrinth]
 mod-id = "LXagYH7y"
-version = "nyRyzm2i"
+version = "9JhEyJEL"

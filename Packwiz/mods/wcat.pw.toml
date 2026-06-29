@@ -1,0 +1,13 @@
+name = "Who Cares About That"
+filename = "who-cares-about-that-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ULWGNVFx/versions/DLT7AUUw/who-cares-about-that-1.0.0.jar"
+hash-format = "sha512"
+hash = "690089ce33361845731c3cb247e4a04b6ac446b5c724bd15d01682630cc45b6a9f757af669631b2cefda22f4453ed1ae420b4915e8776164c912f14fe35e05c2"
+
+[update]
+[update.modrinth]
+mod-id = "ULWGNVFx"
+version = "DLT7AUUw"

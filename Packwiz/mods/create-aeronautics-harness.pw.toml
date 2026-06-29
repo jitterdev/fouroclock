@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Harness"
+filename = "CreateAeronauticsHarness-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb6cbda6cf819e18af30a5e01722bf2428f8bb50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8332816
+project-id = 1590651

@@ -1,13 +1,13 @@
 name = "Acedium Sodiumized"
-filename = "acedium-0.3.2+mc1.21.1.jar"
+filename = "acedium-0.4.1+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sBwZemk4/versions/MQwE9r1y/acedium-0.3.2%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/sBwZemk4/versions/FtbmoAMK/acedium-0.4.1%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "645dd05220e65322fcb141985a75a03c830fab5776ae3343ffa3cbc2c528dbdbb9c267e3d17d54c8798512a28236f0eb7de5615f72178ea99db6ab6f662971ea"
+hash = "3344e65d3bb9389dbe2f42d79775a2b828a90f929fd8d549507a105c1727263175bf53c747ba4b640c20c1e3f33944c454f16a5e0ca681eec6da2a177cd8e4c9"
 
 [update]
 [update.modrinth]
 mod-id = "sBwZemk4"
-version = "MQwE9r1y"
+version = "FtbmoAMK"

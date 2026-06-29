@@ -16,9 +16,44 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "minecraft:elytra",
     "minecraft:music_disc_lava_chicken",
-    "minecraft:music_disc_tears"
+    "minecraft:music_disc_tears",
+    "!minecraft:.*bundle",
+    
+    "mythicmetals:star_platinum_arrow",
+    "!mythicmetals:.*anvil.*",
+    "!mythicmetals:.*runite_arrow.*",
+    "!mythicmetals:.*nuke_core.*",
+    "!mythicmetals:.*silver.*",
+    "!mythicmetals:.*copper.*",
+    "!mythicmetals:.*tin.*",
+    // "!mythicmetals:celestium_.*",
+    // "!mythicmetals:metallurgium_.*",
+
+    "mythicmetals:tin_ingot",
+    "mythicmetals:tin_block",
+    "mythicmetals:tin_nugget",
+    "mythicmetals:raw_tin",
+
+    // "mythicmetals:tin_ingot",
+    // "mythicmetals:tin_block",
+    // "mythicmetals:tin_nugget",
+    // "mythicmetals:raw_tin",
+
+    "spectrum:bottomless_bundle",
+    
+    "caverns_and_chasms:copper_helmet",
+    "caverns_and_chasms:copper_chestplate",
+    "caverns_and_chasms:copper_leggings",
+    "caverns_and_chasms:copper_boots",
+    "caverns_and_chasms:copper_sword",
+    "caverns_and_chasms:copper_pickaxe",
+    "caverns_and_chasms:copper_axe",
+    "caverns_and_chasms:copper_shovel",
+    "caverns_and_chasms:copper_hoe",
+    "caverns_and_chasms:copper_horse_armor",
+    "!caverns_and_chasms:.*copper_golem.*"
+
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

@@ -1,0 +1,13 @@
+name = "Landmarks"
+filename = "landmarks-neoforge-1.2.0-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UyalrGZC/versions/fuc4t4do/landmarks-neoforge-1.2.0-1.21.jar"
+hash-format = "sha512"
+hash = "cc2338338754cd41d24f28008820ee74eef69d8e03eb4e43651c0fd4e02e3ee22fad7e377c774d7a046636a3cca52b763d61c554c36567b6ee36c769da3e52c4"
+
+[update]
+[update.modrinth]
+mod-id = "UyalrGZC"
+version = "fuc4t4do"
