@@ -1,6 +1,6 @@
 name = "mirabilis"
-author = "jitter & vibri"
-version = "0.0.1"
+author = "jitter"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
