@@ -181,6 +181,22 @@ file = "config/paxi/datapacks/crackofdawn/data/mirabilis/tags/item/enchantable/b
 hash = "8a8deb3818fdfe84848d0c4925a061fa1f309bd43decd20c7aecbaeda814f945"
 
 [[files]]
+file = "config/paxi/datapacks/crackofdawn/data/netherexp/advancement/nether/soul_sand_valley/black_ice_black_everything_black.json"
+hash = "bfc43610874b636b6c32899ee35e1160698a0f3ca601222592304d001b0e8cb3"
+
+[[files]]
+file = "config/paxi/datapacks/crackofdawn/data/netherexp/advancement/nether/soul_sand_valley/emf_raider.json"
+hash = "c8fd7b2487a083a769eb8026bcc9fa19e04f86d34886cde5b19c468f9ad0c5a2"
+
+[[files]]
+file = "config/paxi/datapacks/crackofdawn/data/netherexp/advancement/nether/soul_sand_valley/occult_manor.json"
+hash = "aa963971a0f95382bcca52fd2b04f34d91e0cfc355fe4c9a215e80265ce6c94b"
+
+[[files]]
+file = "config/paxi/datapacks/crackofdawn/data/netherexp/advancement/nether/soul_sand_valley/ssv_sub_biomes.json"
+hash = "63384c86045d4acc7d47d94253392a776277210a90b5dcba48f13e3f9fe07dc1"
+
+[[files]]
 file = "config/paxi/datapacks/crackofdawn/pack.mcmeta"
 hash = "4496ac3d7c6a2e3c7466527493d751c0621aad557c089fb2fd661e9428e1b05f"
 

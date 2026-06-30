@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "netherexp:black_icicle"
+    },
+    "title": {
+      "translate": "advancements.nether.black_ice_black_everything_black.title"
+    },
+    "description": {
+      "translate": "advancements.nether.black_ice_black_everything_black.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "netherexp:nether/soul_sand_valley/ssv_sub_biomes",
+  "criteria": {
+    "impossible_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "shot_arrow"
+    ]
+  ]
+}

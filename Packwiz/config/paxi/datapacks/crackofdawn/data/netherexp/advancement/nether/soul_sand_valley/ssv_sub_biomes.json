@@ -1,0 +1,29 @@
+{
+  "parent": "netherexp:nether/soul_sand_valley/soul_sand_valley",
+  "criteria": {
+    "impossible_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.nether.fright_before_xmas.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "id": "netherexp:netherite_plated_block",
+      "components": {
+        "minecraft:custom_model_data": 1
+      }
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.nether.fright_before_xmas.title"
+    }
+  },
+  "rewards": {
+    "experience": 200
+  }
+}

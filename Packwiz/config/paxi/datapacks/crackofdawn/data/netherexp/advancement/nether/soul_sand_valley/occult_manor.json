@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "id": "netherexp:chiseled_soul_slate_tiles"
+    },
+    "title": {
+      "translate": "advancements.nether.castlemania.title"
+    },
+    "description": {
+      "translate": "advancements.nether.castlemania.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "netherexp:nether/soul_sand_valley/emf_raider",
+  "criteria": {
+    "impossible_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "sends_telemetry_event": true
+}
