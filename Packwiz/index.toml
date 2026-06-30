@@ -1197,11 +1197,6 @@ hash = "8ad08b7e8faec8a46438e1551f717e4a35bba2e23f44f490a35e4275e5030734"
 metafile = true
 
 [[files]]
-file = "mods/toadlib.pw.toml"
-hash = "fb3f7aff0e776639951d7e8efbf88224fdd2b65426667d59a531164794f78463"
-metafile = true
-
-[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
