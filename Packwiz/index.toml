@@ -682,6 +682,11 @@ hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
+file = "mods/entombed.pw.toml"
+hash = "8f2e0ecc59ffe739bda763b362fd5d6371249a8e76d4b3016064a042a4c9e6a7"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement-neoforge.pw.toml"
 hash = "adaf48f66a09d2ee6176b134a065c70733aaaaf19bc75eb32c8c76973a63de59"
 metafile = true
@@ -1249,11 +1254,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
-metafile = true
-
-[[files]]
-file = "mods/yigd.pw.toml"
-hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
 metafile = true
 
 [[files]]
