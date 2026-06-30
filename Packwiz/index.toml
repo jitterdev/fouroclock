@@ -50,7 +50,7 @@ hash = "a472315fb31fd8f5fce61941e3ce1a9da7df290d4a378682193b252cbc44aeda"
 
 [[files]]
 file = "config/ore_generation_configuration/global.json"
-hash = "6ff05ae8f1b18c6027fa0c3d6a96095eb836dc7cadf6960d590e3e29206fff22"
+hash = "a6c7b3f4de0d7c154811f30d4dc584410537c76bcccadce0b93aecdf453adbcc"
 
 [[files]]
 file = "config/ore_generation_configuration/ores.json"

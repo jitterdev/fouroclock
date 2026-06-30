@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "debug_logging": true,
+  "debug_logging": false,
   "dry_run": false,
   "fail_on_unknown_blocks": false,
   "fail_on_unknown_biomes": false,
