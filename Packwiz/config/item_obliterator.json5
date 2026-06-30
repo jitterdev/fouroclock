@@ -24,16 +24,11 @@
     "!mythicmetals:.*anvil.*",
     "!mythicmetals:.*runite_arrow.*",
     "!mythicmetals:.*nuke_core.*",
-    "!mythicmetals:.*silver.*",
+    "!mythicmetals:(?!silver_ingot$).*silver.*",
     "!mythicmetals:.*copper.*",
-    "!mythicmetals:.*tin.*",
+    "!mythicmetals:(?!tin_ingot$).*tin.*",
     // "!mythicmetals:celestium_.*",
     // "!mythicmetals:metallurgium_.*",
-
-    "mythicmetals:tin_ingot",
-    "mythicmetals:tin_block",
-    "mythicmetals:tin_nugget",
-    "mythicmetals:raw_tin",
 
     // "mythicmetals:tin_ingot",
     // "mythicmetals:tin_block",

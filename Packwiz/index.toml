@@ -14,7 +14,7 @@ hash = "a790a12022dd72ffb982bef565ef1c5f412a89316ea4a377cdd9cd096fe0d4ed"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "1f2c01e1baff62afbe456e62a751df4a646004bdf449f3ac13f34e2649c7e2c7"
+hash = "9bcd78fa1976c3911ae1ab6d8bec65f353382bd6f42a8f1c9d7c3af4737eaf07"
 
 [[files]]
 file = "config/enchiridion.jsonc"
@@ -30,7 +30,7 @@ hash = "1009535abb99263f2f0c4fa8e487d7ebc15b38924ea105a5013091e7151a19d9"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "bb3ff768135375c8251e40d9d1e5fa057c96d34bc13607a0654db294b5cab92a"
+hash = "2973bdeb28e8ce7a9a0da60e6b57580091ca42d269f241483ee06ec18a657648"
 
 [[files]]
 file = "config/kiwi-client.yaml"

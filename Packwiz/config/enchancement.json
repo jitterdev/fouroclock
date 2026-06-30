@@ -8,6 +8,7 @@
     "enchiridion:murky_waters_curse",
     "enchiridion:sticky",
     "enchiridion:reach",
+    "enchiridion:beheading",
 
     "enchancement:assimilation",
     "enchancement:beheading",
@@ -20,13 +21,13 @@
     "enchancement:sticky",
     "enchancement:strafe",
     "enchancement:wardenspine",
+    "enchancement:molten",
 
     "allurement:alleviating",
     "allurement:ascension_curse",
     "allurement:fleeting_curse",
 
-    "spectrum:indestructible",
-    "spectrum:autosmelt"
+    "spectrum:indestructible"
   ],
   "invertedList": false,
   "overhaulEnchantingTable": "DISABLED",
