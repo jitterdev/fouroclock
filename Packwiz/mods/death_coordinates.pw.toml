@@ -1,0 +1,13 @@
+name = "Death Coordinates"
+filename = "death-coordinates-v1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aciB8Eki/versions/r88zvnzz/death-coordinates-v1.0.3.jar"
+hash-format = "sha512"
+hash = "97638ebfb5f515edc76a326a202968194889e4418a0c32cf1f7538b568411c1383321bfcf93b816c2be0fadc693f9961442176508ba5bc245ed00bc21b82f31e"
+
+[update]
+[update.modrinth]
+mod-id = "aciB8Eki"
+version = "r88zvnzz"

@@ -567,6 +567,11 @@ hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
+file = "mods/death_coordinates.pw.toml"
+hash = "b9dad11cfc25b80b8a3abed42ff9e40264a0dbd62aef41bb14f55ed2ac8903b5"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "16aa04ea994ad4259363094b8aabbe069435ae4ab666c27e1b11a0f20dd90c9c"
 metafile = true
