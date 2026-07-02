@@ -1217,6 +1217,11 @@ hash = "eaad22c30b86770a90f8484a614166684b0aea2478d1ea9dade1eb449ff30a73"
 metafile = true
 
 [[files]]
+file = "mods/two-players-one-horse.pw.toml"
+hash = "ab673373fa8785fb63443f8ae2c8692e9e8571d102015d210a3f2247ce6f91d3"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
